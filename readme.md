@@ -5,3 +5,4 @@ https://roadmap.sh/projects/github-actions-deployment-workflow
 https://roadmap.sh/projects/ssh-remote-server-setup
 https://roadmap.sh/projects/static-site-server
 https://roadmap.sh/projects/basic-dns
+https://roadmap.sh/projects/simple-monitoring-dashboard
